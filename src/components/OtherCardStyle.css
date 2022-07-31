@@ -1,0 +1,50 @@
+.skills{
+    color: #fff;
+    text-align: center;
+}
+
+.skill_badge{
+    display: -webkit-flex;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.skill_badgeContainer{
+    width: 60vw;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.skill_badge img{
+    padding: 15px;
+    object-fit: contain;
+    transition: .25s ease-in-out;
+}
+
+.platform{
+    display: -webkit-flex;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 60vw;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.platform img{
+    padding: 15px;
+    object-fit: contain;
+}
+
+.other-heading{
+    text-align: center;
+    padding: 4rem 0 2rem 0;
+}
+
