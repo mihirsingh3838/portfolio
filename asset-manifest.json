@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.779ab48a.css",
+    "main.js": "/portfolio/static/js/main.dea8457a.js",
+    "static/media/Table Tennis.png": "/portfolio/static/media/Table Tennis.b5dfa8b01d00296fe1fb.png",
+    "static/media/Code Monk.png": "/portfolio/static/media/Code Monk.03de8258e757e233a44c.png",
+    "static/media/VIRAAJ.png": "/portfolio/static/media/VIRAAJ.fb8cfadb5be348ae4250.png",
+    "static/media/portfolio.jpg": "/portfolio/static/media/portfolio.ab39f53ec0275675841a.jpg",
+    "static/media/Valor arena.png": "/portfolio/static/media/Valor arena.8740db1262250a7fdc49.png",
+    "static/media/Pixel 3.0.png": "/portfolio/static/media/Pixel 3.0.72f74a5dcc039ebc1d20.png",
+    "static/media/Badminton.png": "/portfolio/static/media/Badminton.6f55a49ee17459451049.png",
+    "static/media/lifestyle.jpg": "/portfolio/static/media/lifestyle.4bb2f6b4562602412f92.jpg",
+    "static/media/sih.jpg": "/portfolio/static/media/sih.5cd35516748790fb6a3d.jpg",
+    "static/media/bg_img.jpg": "/portfolio/static/media/bg_img.eb095d34b22f861899ef.jpg",
+    "static/media/django.jpg": "/portfolio/static/media/django.466d9058b41dfabae427.jpg",
+    "static/media/react.jpg": "/portfolio/static/media/react.8fcc216cd1cf37d7467e.jpg",
+    "static/media/Play.png": "/portfolio/static/media/Play.b7894d9e1cd975d76577.png",
+    "static/media/Volleyball.png": "/portfolio/static/media/Volleyball.e2e375ea8261e1a6cfa2.png",
+    "static/media/logo.png": "/portfolio/static/media/logo.ec22850b58943c0cf224.png",
+    "index.html": "/portfolio/index.html",
+    "main.779ab48a.css.map": "/portfolio/static/css/main.779ab48a.css.map",
+    "main.dea8457a.js.map": "/portfolio/static/js/main.dea8457a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.779ab48a.css",
+    "static/js/main.dea8457a.js"
+  ]
+}
