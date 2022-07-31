@@ -1,15 +1,15 @@
-.project-img{
+.contact-img{
     width: 100%;
     background: rgba(0,0,0,0.5);
     height: 60vh;
     position: relative;
 }
 
-.project-img::before{
+.contact-img::before{
     content: " ";
-    background: url("https://images.unsplash.com/photo-1564865878688-9a244444042a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
+    background: url("https://images.unsplash.com/photo-1629131530694-c2b44f0cd901?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80");
     background-size: cover;
-    background-position: center;
+    background-position: center ;
     background-repeat: no-repeat;
     height: 100%;
     width: 100%;
@@ -28,17 +28,17 @@
     align-items: center;
 }
 
-.project-img h1{
+.contact-img h1{
     font-size: 2.4rem;
 }
 
-.project-img p{
+.contact-img p{
     font-size: 1.4rem;
     text-align: center;
 }
 
 @media screen and (max-width:640px) {
-    .project-img h1{
+    .contact-img h1{
         font-size: 2rem;
     }
 }

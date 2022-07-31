@@ -1,13 +1,13 @@
-.project-img{
+.hobby-img{
     width: 100%;
     background: rgba(0,0,0,0.5);
     height: 60vh;
     position: relative;
 }
 
-.project-img::before{
+.hobby-img::before{
     content: " ";
-    background: url("https://images.unsplash.com/photo-1564865878688-9a244444042a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
+    background: url("https://images.unsplash.com/photo-1519408469771-2586093c3f14?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=402&q=80");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -28,17 +28,17 @@
     align-items: center;
 }
 
-.project-img h1{
+.hobby-img h1{
     font-size: 2.4rem;
 }
 
-.project-img p{
+.hobby-img p{
     font-size: 1.4rem;
     text-align: center;
 }
 
 @media screen and (max-width:640px) {
-    .project-img h1{
+    .hobby-img h1{
         font-size: 2rem;
     }
 }
