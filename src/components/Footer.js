@@ -31,15 +31,15 @@ const Footer = () => {
 
             <div className="right">
                 <div className="social">
-                    <a href="https://www.facebook.com/mihir.singh.9678067">
+                    <a href="https://www.facebook.com/mihir.singh.9678067" target="_blank" rel="noreferrer">
                         <FaFacebook size={20} style={{color: "#fff", marginRight: "1rem"}} />
                     </a>
                     
-                    <a href="https://www.instagram.com/mihir_3838/">
+                    <a href="https://www.instagram.com/mihir_3838/" target="_blank" rel="noreferrer">
                         <FaInstagram size={20} style={{color: "#fff", marginRight: "1rem"}} />
                     </a>
 
-                    <a href="https://www.linkedin.com/in/mihirSingh38/">
+                    <a href="https://www.linkedin.com/in/mihirSingh38/" target="_blank" rel="noreferrer">
                         <FaLinkedin size={20} style={{color: "#fff", marginRight: "1rem"}} />
                     </a>
                 </div>
