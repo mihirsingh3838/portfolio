@@ -1,14 +1,16 @@
 import React from 'react'
 import Navbar from "../components/Navbar"
 import Footer  from '../components/Footer'
-import ProjectImg from '../components/ProjectImg'
+import AboutImg from '../components/AboutImg'
+import AboutContent from '../components/AboutContent'
 
 
 const About = () => {
   return (
     <div>
       <Navbar/>
-      <ProjectImg />
+      <AboutImg/>
+      <AboutContent/>
       <Footer/>
     </div>
   )

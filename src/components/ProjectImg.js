@@ -1,18 +1,16 @@
 import "./ProjectImgStyle.css"
 
-import React, { Component } from 'react'
+import React from 'react'
 
-class ProjectImg extends Component {
-    render() {
-        return (
-            <div className="project-img">
-                <div className="heading">
-                    <h1>{this.props.heading}</h1>
-                    <p>{this.props.text}</p>
-                </div>
+const ProjectImg =() => {
+    return (
+        <div className="project-img">
+            <div className="heading">
+                <h1>PROJECTS</h1>
+                <p>Some of my most recent works</p>
             </div>
-        );
-    }
+        </div>
+    );
 }
 
 export default ProjectImg
